@@ -16,12 +16,11 @@
 
 ---
 
-## 📂 Projects  
-Here are some projects I’m working on:  
+
 
 
 ## 📫 Contact Me  
-- 📧 Email: farahakrout67@gmail.com
+- 📧 Email: farahakrout.cv@gmail.com
 - 🔗 LinkedIn: [www.linkedin.com/in/farah-akrout-49808a219](#)  
 - 🐙 GitHub: [github.com/farah-akrout93](https://github.com/farah-akrout93)
 
